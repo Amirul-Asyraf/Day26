@@ -1,0 +1,24 @@
+* {margin: 0; padding: 0;}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.submission {
+    width: 100%;
+    height: 100%;
+    background-color: #97BB7D;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.submission h1, a{
+    margin: 10px 0px;
+    text-align: center;
+}
